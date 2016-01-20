@@ -8,6 +8,7 @@ Turn any website into an app in seconds!
 ## Usage
   * Go into platforms/ios/www/index.html
   * Change variable  [`WEBSITE_URL`] to a URL of your choice.
-  * Run application with the following command: ```bash
+  * Run application with the following command: 
+```bash
 $ cordova run ios
 ```
