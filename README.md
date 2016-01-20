@@ -1,5 +1,4 @@
 # Appify
-[![NPM Version][npm-image]][npm-url]
 Turn any website into an app in seconds!
 
 ##Demo with iPad
