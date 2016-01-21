@@ -1,5 +1,5 @@
 # Appify
-Turn any website into an app in seconds! 
+Turn any website into a native app in seconds! 
 
 ##Demo with iPad
 ![Demo](Demo.gif)
