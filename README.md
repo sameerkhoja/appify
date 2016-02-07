@@ -1,5 +1,5 @@
 # Appify
-Turn any website into a native app in seconds! 
+Turn any website into a native app in seconds! For use with npm and cordova.
 
 ##Demo with iPad
 ![Demo](Demo.gif)
