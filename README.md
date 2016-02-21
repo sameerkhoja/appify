@@ -20,3 +20,7 @@ $ cordova run ios
 
 
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/samkho10/appify/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
